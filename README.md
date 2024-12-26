@@ -38,9 +38,11 @@ TODO: Create a Profolio website and link it here on a badge!
 <img align= "left" alt = "Blender" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
 <img align= "left" alt = "3DSMax" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"/>
 
----
+
 
 <br clear="both">
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=justin-bytes-code&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
