@@ -8,11 +8,19 @@ I’m currently in the process of uploading years of work onto my GitHub, so I a
 
 ### 📱 Social Media 📱
 
+<!-- Linkedin-->
 <div align="left">
   <a href="https://www.linkedin.com/in/justin-perez-247b122a2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin Badge" />
+  </a>
+  
+<!-- Itch-->
+  <a href="https://justin-bytes-code.itch.io/" target="_blank">
+    <img alt="Itch Badge" src="https://img.shields.io/badge/Itch-orange" height="40">
   </a>
 </div>
+
+
 
 <!--
 TODO: Create a Profolio website and link it here on a badge!
