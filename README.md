@@ -1,8 +1,6 @@
 ## 😺 Nice to Meet you! 😺
 
-I'm Justin Perez a Dual major student in Computer science with a conceneration in Software Engineering and Game Programming and Development. 
-
-I’m currently in the process of uploading years of work onto my GitHub, so I appreciate your patience as it comes together.
+Hey! I'm Justin Perez, a college Graduate with a dual degree in Computer Science with a concentration in Software Engineering & Game Programming and Development. 
 
 ---
 
